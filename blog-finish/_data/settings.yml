@@ -1,0 +1,65 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projetos pessoais', url: ''}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Tech Stack', url: 'pages/tech.html'}
+- {name: 'Quem somos?', url: 'pages/who.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'As nossas experiencias como devs'
+  rel-author: 'https://github.com/Korzre'
+  rel-publisher: 'https://github.com/Korzre'
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
+
+
+tech: >
+ ## Tech Stack
+
+
+quem: >
+  ## Quem somos?
+
+
+# Work Section
+
+projects:
+- {name: 'Pong', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Calculadora em Angular', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Pastel de flango', folder: 'proj-3', file: 'projects/proj-3.html'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://www.twitter.com/caiomit'}
+- {icon: 'instagram', link: 'https://instagram.com/caiomitsuo/'}
+- {icon: 'github', link: 'https://github.com/Korzre'}
+- {icon: 'linkedin', link: 'https://br.linkedin.com/in/caio-mitsuo-de-lima-9b89a5191'}
+- {icon: 'envelope', link: 'mailto:Corzre@outlook.com'}
