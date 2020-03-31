@@ -1,12 +1,14 @@
 # Blog portfly
 
+<img src="bannerDoc.png" alt="Banner">
+
 A pasta com o blog completo está na pasta blog-finnish.
 
 Tecnologias utilizadas:
 
 * Jekyll
 * Ruby
-* Js
+* JavaScript
 * HTML 5
 * CSS3
 
