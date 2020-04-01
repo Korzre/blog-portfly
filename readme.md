@@ -1,10 +1,31 @@
-## Blog portfly
+# Blog portfly
 
-A pasta com o blog terminado está na pasta blog-finnish.
+A pasta com o blog completo está na pasta blog-finnish.
 
-Ferramentas utilizadas:
+Tecnologias utilizadas:
 
 * Jekyll
-* Tema -> Portfolio Jekyll Theme
+* Ruby
+* Js
+* HTML 5
+* CSS3
 
-[Demo site](https://lenpaul.github.io/portfolio-jekyll-theme/)
+## Instalação
+
+1. Intalar o Ruby e o Jekyll com base ao seu S0
+- [Ruby/Jekyll](https://jekyllrb.com/docs/installation/)
+
+2 - Clonar o projeto
+- ```git clone https://github.com/Korzre/blog-portfly.git ```
+
+## Uso
+Para criar e servir o site, execute:
+
+```shell 
+$ bundle exec jekyll serve 
+
+```
+
+E está tudo pronto! Acesse http://127.0.0.1:4000/ para ver o site em ação.
+
+:ok_hand:
