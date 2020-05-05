@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "As 5 linguagens para o ano de 2020"
+title: "As 5 melhores linguagens para o ano de 2020"
 ---
+
+[![Rede](https://becode.com.br/wp-content/uploads/2017/02/As-15-principais-linguagens-de-programa%C3%A7%C3%A3o-no-mundo.png)](https://becode.com.br/wp-content/uploads/2017/02/As-15-principais-linguagens-de-programa%C3%A7%C3%A3o-no-mundo.png)
 
 A tecnologia é um recurso que tem estado cada vez mais presente em nosso cotidiano. No entanto, pouco se sabe a respeito de todo o caminho para fornecer o resultado desejado aos clientes. Ainda assim, o desenvolvimento de novos recursos está intimamente ligado aos trabalhos baseados na programação de sistemas.
 

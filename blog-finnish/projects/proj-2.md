@@ -1,9 +1,13 @@
 ---
 layout: post
-title: 'Calculadora em Angula'
+title: 'Calculadora em Angular'
 ---
 
-## Ferramentas usadas 
+[![Rede](https://github.com/Korzre/calculatorAngularUI-UX/raw/master/calculadora_angular.PNG)](https://github.com/Korzre/calculatorAngularUI-UX)
+
+O projeto foi desenvolvido em TypeScript.
+
+#### Ferramentas utilizadas 
 
 * Material design
 * Angular(typescript)

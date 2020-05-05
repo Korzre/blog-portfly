@@ -2,12 +2,9 @@
 layout: default
 title: Blog
 ---
-<br>
-  <br>
-  
-  <h5 style="color:#BD5248;">Blog</h5>
-<section>
+
   <div class="blog-container">
+      <h5 style="color:#BD5248;font-size: 24px;font-weight: 600;">Blog</h5>
     {% for post in site.posts %}
       <div class="blog-unit">
         <h1><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -24,4 +21,4 @@ title: Blog
       </div>
     {% endfor %}
   </div>
-</section>
+
