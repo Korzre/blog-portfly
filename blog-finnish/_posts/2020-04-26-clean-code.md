@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clean Code: O que é? Porque usar?"
+title: "Clean Code: O que é?"
 ---
 
 [![Rede](https://blogs.unsw.edu.au/nowideas/files/2019/11/diseno-web.jpg)](https://blogs.unsw.edu.au/nowideas/files/2019/11/diseno-web.jpg)
@@ -10,18 +10,11 @@ Clean Code é uma filosofia de desenvolvimento cuja o principal objetivo é apli
 ``
 
 
-<table border="1" cellpadding="12">
-  <tr>
-    <th>
-    <h5>
-    “ Aprender a criar códigos limpos é uma tarefa árdua e requer mais do que o simples conhecimento dos princípios e padrões. Você deve suar a camisa; praticar sozinho e ver que cometeu erros; 
+<div style="border:1px;padding:3px;">
+    Aprender a criar códigos limpos é uma tarefa árdua e requer mais do que o simples conhecimento dos princípios e padrões. Você deve suar a camisa; praticar sozinho e ver que cometeu erros; 
     assistir os outros praticarem e errarem; vê-los tropeçar e refazer seus passos;
-    <br>
-    Vê-los agonizar para tomar decisões e o preço que pagarão por as terem tomado da maneira errada. ”
-    </h5>
-    </th>
-  </tr>
-</table>
+    Vê-los agonizar para tomar decisões e o preço que pagarão por as terem tomado da maneira errada. 
+</div>
 
 #### Introdução
 
