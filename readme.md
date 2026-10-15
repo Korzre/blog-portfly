@@ -11,20 +11,16 @@ O **Portfly** é um blog e portfólio pessoal estático desenvolvido com Jekyll 
 
 ## Interface
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Home & Projetos</b></td>
-      <td align="center"><b>Artigos</b></td>
-      <td align="center"><b>Versão Mobile</b></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/home.png" width="280" alt="Home"></td>
-      <td><img src="screenshots/blog.png" width="280" alt="Blog"></td>
-      <td><img src="screenshots/mobile.png" width="140" alt="Mobile"></td>
-    </tr>
-  </table>
-</div>
+
+### Home & Projetos
+<img src="screenshots/home.png" width="280" alt="Home"></td>
+
+ ### Blog
+<img src="screenshots/blog.png" width="280" alt="Blog"></td>
+ 
+ ### Versão Mobile
+<img src="screenshots/mobile.png" width="140" alt="Mobile">
+    
 
 ---
 
